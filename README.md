@@ -1,5 +1,5 @@
-# **WAVE** 
-Wave is a fun to play game.
+# **PARTICLES** 
+Particles is a fun to play game.
 If you collide with any of the particles your health bar will decrease and eventually game will over.
 Refer the below images for a sneak peack into the game. 
 Download the game and Have fun. :) :)
